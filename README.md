@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 😁, I'm Chris Li
 
-- My name is Chris Li and I'm a web developer!
-- You can reach me through [<img src='./assets/gmail_icon.png' width='4%'>](mailto:christopherli1018@gmail.com)
-
+- 📮 Email: christopherli1018@gmail.com
+- 🎓 School: York University
+- 💻 Major: Computer Science
+- 🔦 Hobby: Ping Pong 🏓
