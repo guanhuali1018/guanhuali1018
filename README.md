@@ -1,4 +1,4 @@
-### Hi there 😁, I'm Chris Li, a Full Stack Web Developer
+### Hi there 😁, I'm Chris Li, a Frontend Developer
 
 - 📮 Email: christopherli1018@gmail.com
 - 🎓 School: York University
