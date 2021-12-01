@@ -6,4 +6,4 @@ I am a web developer. My daily job is using React.js and Node.js to develop all 
 I like playing Ping-Pong and really enjoy video games and delicious foods.
 By the way, I am also a big fan of Golden State Warriors. Stephen Curry #1.
 
-You can contact me via [Email](christopherli1018@gmail.com).
+You can contact me via [Email](mailto:christopherli1018@gmail.com).
